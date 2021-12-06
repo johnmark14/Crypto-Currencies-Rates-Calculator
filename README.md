@@ -1,15 +1,15 @@
-**Crypto Currency Rates Calculator**
+**#Crypto Currency Rates Calculator**
 
 a project for IT 213.
 
-Getting Started
+##Getting Started
 
 ---
 
 1. Create an account at [coinmarketcap.com](https://coinmarketcap.com/) to get your own API key.
 2. Add your API key at js/cryptoAPI.js
 
-CHECK THE CONSOLE
+##CHECK THE CONSOLE
 
 ---
 
