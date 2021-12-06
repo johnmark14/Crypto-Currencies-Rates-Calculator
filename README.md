@@ -1,4 +1,6 @@
-**#Crypto Currency Rates Calculator**
+```
+#Crypto Currency Rates Calculator
+```
 
 a project for IT 213.
 
